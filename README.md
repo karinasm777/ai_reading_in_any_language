@@ -5,13 +5,13 @@ IA para ajudar pessoas a  praticarem sua compreensão textual e interpretação 
 
 Veja como ele funciona:
 
-Em qual idioma você quer praticar sua leitura hoje?(Peça quantos diálogos/textos você quiser) **Redija tres textos em ingles, nivel B2 falando sobre bullying**
+Em qual idioma você quer praticar sua leitura hoje?(Peça quantos diálogos/textos você quiser) **Redija tres textos em ingles, nivel B2 falando sobre bullying
 ==================================================================
-Peça a quantidade de texto, o idioma e o nível de inglês e adicione 
+**Peça a quantidade de texto, o idioma e o nível de inglês e adicione 
 o assunto do seu interesse A1, A2, B1, B2, C1, C2 ou basico, 
-avançado, intermediário etc)
+avançado, intermediário etc)**
 =================================================================
-**Redija tres textos em ingles, nivel B2 falando sobre bullying**
+**Redija tres textos em ingles, nivel B2 falando sobre bullying
 
 Veja o resultado
   **Texto 1**
