@@ -1,5 +1,5 @@
 # ai_reading_in_any_language
-Está IA é para ajudar estrangeiros ao redor do mundo que precisam aprender a ler e a escrever no idioma local, visto que seu nivel de conversação é muito mais avançado que o de leitura e escrita.
+Esta IA é para ajudar estrangeiros ao redor do mundo que precisam aprender a ler e a escrever no idioma local, visto que seu nivel de conversação é muito mais avançado que o de leitura e escrita.
 IA para ajudar pessoas a  praticarem sua compreensão textual e interpretação de texto.
 
 
